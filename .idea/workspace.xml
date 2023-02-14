@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8864056-5265-4d66-aaed-352ee6a63adc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/kameleoon/DiscoveryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/test/java/com/kameleoon/DiscoveryAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/kameleoon/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/kameleoon/domain/quote/Quote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/com/kameleoon/domain/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/test/java/com/kameleoon/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/RestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/repository/quote_repo/QuoteRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/repository/visitor_repo/VisitorRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v1/controller/quote/QuoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v1/controller/quote/SecurityQuoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v1/controller/visitor/VisitorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v1/service/quote/QuoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v1/service/quote/QuoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v2/controller/quote/PageableQuoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v2/service/quote/PageableQuoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v3/controller/ReactiveQuoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/main/java/com/kameleoon/v3/service/quote/ReactiveQuoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-service/src/test/java/com/kameleoon/RestAppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LYk9VTNliWNDCDcgZGfHoPdZSm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/L/IdeaProjects/Minchenko_Ivan_trial_task",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.24942529",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "spring.configuration.checksum": "96cb72c42f79da6d92ac20215c917094"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\L\IdeaProjects\Minchenko_Ivan_trial_task\rest-service\src\main\java\com\kameleoon\v1\service" />
+      <recent name="C:\Users\L\IdeaProjects\Minchenko_Ivan_trial_task\rest-service\src\main\java\com\kameleoon\v1\coontroller" />
+      <recent name="C:\Users\L\IdeaProjects\Minchenko_Ivan_trial_task\rest-service\src\main\java\com\kameleoon\v1" />
+      <recent name="C:\Users\L\IdeaProjects\Minchenko_Ivan_trial_task\entity\src\main\java\com\kameleoon" />
+      <recent name="C:\Users\L\IdeaProjects\Minchenko_Ivan_trial_task\rest-service\src\main\java\com\kameleoon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RestApp">
+    <configuration name="RestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kameleoon.RestApp" />
+      <module name="rest-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kameleoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kameleoon.DiscoveryApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kameleoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="rest-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kameleoon.RestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kameleoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RestApp" />
+      <item itemvalue="Spring Boot.RestApp" />
+      <item itemvalue="Spring Boot.DiscoveryApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RestApp" />
+        <item itemvalue="Spring Boot.DiscoveryApp" />
+        <item itemvalue="Application.RestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8864056-5265-4d66-aaed-352ee6a63adc" name="Changes" comment="" />
+      <created>1676055253434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676055253434</updated>
+      <workItem from="1676055256050" duration="5529000" />
+      <workItem from="1676126024923" duration="15767000" />
+      <workItem from="1676151391815" duration="637000" />
+      <workItem from="1676199863536" duration="14374000" />
+      <workItem from="1676218632447" duration="8887000" />
+      <workItem from="1676280799229" duration="10657000" />
+      <workItem from="1676306971758" duration="4816000" />
+      <workItem from="1676317688951" duration="6037000" />
+      <workItem from="1676367834223" duration="25200000" />
+      <workItem from="1676394771493" duration="6914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
